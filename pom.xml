@@ -25,7 +25,7 @@
 
     <groupId>io.github.binout</groupId>
     <artifactId>jiphoto</artifactId>
-    <version>1.O-SNAPSHOT</version>
+    <version>0.1</version>
     <name>jiPhoto</name>
 
     <inceptionYear>2013</inceptionYear>
