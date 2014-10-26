@@ -4,7 +4,7 @@
 	<key>Application Version</key>
 	<string>9.4</string>
 	<key>Archive Path</key>
-	<string>/Users/benoit/Coding/workjavaee7/iphotoserver/library/src/test/resources/iPhoto-9_4_3.photolibrary</string>
+	<string>/Users/benoit/Coding/jiphoto/src/test/resources/iPhoto-9_4_3.photolibrary</string>
 	<key>ArchiveId</key>
 	<string>1</string>
 	<key>Major Version</key>
@@ -174,7 +174,7 @@
 			<key>Rating</key>
 			<integer>0</integer>
 			<key>ImagePath</key>
-			<string>/Users/benoit/Coding/workjavaee7/iphotoserver/library/src/test/resources/iPhoto-9_4_3.photolibrary/Masters/2013/08/19/20130819-192758/P1060169.jpg</string>
+			<string>/Users/benoit/Coding/jiphoto/src/test/resources/iPhoto-9_4_3.photolibrary/Masters/2013/08/19/20130819-192758/P1060169.jpg</string>
 			<key>MediaType</key>
 			<string>Image</string>
 			<key>ModDateAsTimerInterval</key>
@@ -186,7 +186,7 @@
 			<key>MetaModDateAsTimerInterval</key>
 			<real>398626087.701332</real>
 			<key>ThumbPath</key>
-			<string>/Users/benoit/Coding/workjavaee7/iphotoserver/library/src/test/resources/iPhoto-9_4_3.photolibrary/Thumbnails/2013/08/19/20130819-192758/JwGX80+lR5ClxZKJwjICEQ/P1060169.jpg</string>
+			<string>/Users/benoit/Coding/jiphoto/src/test/resources/iPhoto-9_4_3.photolibrary/Thumbnails/2013/08/19/20130819-192758/JwGX80+lR5ClxZKJwjICEQ/P1060169.jpg</string>
 		</dict>
 		<key>3</key>
 		<dict>
@@ -201,7 +201,7 @@
 			<key>Rating</key>
 			<integer>0</integer>
 			<key>ImagePath</key>
-			<string>/Users/benoit/Coding/workjavaee7/iphotoserver/library/src/test/resources/iPhoto-9_4_3.photolibrary/Masters/2013/08/19/20130819-192758/P1060170.jpg</string>
+			<string>/Users/benoit/Coding/jiphoto/src/test/resources/iPhoto-9_4_3.photolibrary/Masters/2013/08/19/20130819-192758/P1060170.jpg</string>
 			<key>MediaType</key>
 			<string>Image</string>
 			<key>ModDateAsTimerInterval</key>
@@ -213,7 +213,7 @@
 			<key>MetaModDateAsTimerInterval</key>
 			<real>398626087.700044</real>
 			<key>ThumbPath</key>
-			<string>/Users/benoit/Coding/workjavaee7/iphotoserver/library/src/test/resources/iPhoto-9_4_3.photolibrary/Thumbnails/2013/08/19/20130819-192758/sqrVoO2gRu+KJa+elHSYsg/P1060170.jpg</string>
+			<string>/Users/benoit/Coding/jiphoto/src/test/resources/iPhoto-9_4_3.photolibrary/Thumbnails/2013/08/19/20130819-192758/sqrVoO2gRu+KJa+elHSYsg/P1060170.jpg</string>
 		</dict>
 		<key>11</key>
 		<dict>
@@ -228,7 +228,7 @@
 			<key>Rating</key>
 			<integer>0</integer>
 			<key>ImagePath</key>
-			<string>/Users/benoit/Coding/workjavaee7/iphotoserver/library/src/test/resources/iPhoto-9_4_3.photolibrary/Masters/2013/08/19/20130819-192758/P1060174.jpg</string>
+			<string>/Users/benoit/Coding/jiphoto/src/test/resources/iPhoto-9_4_3.photolibrary/Masters/2013/08/19/20130819-192758/P1060174.jpg</string>
 			<key>MediaType</key>
 			<string>Image</string>
 			<key>ModDateAsTimerInterval</key>
@@ -240,7 +240,7 @@
 			<key>MetaModDateAsTimerInterval</key>
 			<real>398626091.022221</real>
 			<key>ThumbPath</key>
-			<string>/Users/benoit/Coding/workjavaee7/iphotoserver/library/src/test/resources/iPhoto-9_4_3.photolibrary/Thumbnails/2013/08/19/20130819-192758/s29ffgKSRjWd1rrpoOlz9g/P1060174.jpg</string>
+			<string>/Users/benoit/Coding/jiphoto/src/test/resources/iPhoto-9_4_3.photolibrary/Thumbnails/2013/08/19/20130819-192758/s29ffgKSRjWd1rrpoOlz9g/P1060174.jpg</string>
 		</dict>
 		<key>7</key>
 		<dict>
@@ -255,7 +255,7 @@
 			<key>Rating</key>
 			<integer>0</integer>
 			<key>ImagePath</key>
-			<string>/Users/benoit/Coding/workjavaee7/iphotoserver/library/src/test/resources/iPhoto-9_4_3.photolibrary/Masters/2013/08/19/20130819-192758/P1060252.jpg</string>
+			<string>/Users/benoit/Coding/jiphoto/src/test/resources/iPhoto-9_4_3.photolibrary/Masters/2013/08/19/20130819-192758/P1060252.jpg</string>
 			<key>MediaType</key>
 			<string>Image</string>
 			<key>ModDateAsTimerInterval</key>
@@ -267,7 +267,7 @@
 			<key>MetaModDateAsTimerInterval</key>
 			<real>398626087.702683</real>
 			<key>ThumbPath</key>
-			<string>/Users/benoit/Coding/workjavaee7/iphotoserver/library/src/test/resources/iPhoto-9_4_3.photolibrary/Thumbnails/2013/08/19/20130819-192758/ylgjJ0GiSX+Y%PKE3fNzJw/P1060252.jpg</string>
+			<string>/Users/benoit/Coding/jiphoto/src/test/resources/iPhoto-9_4_3.photolibrary/Thumbnails/2013/08/19/20130819-192758/ylgjJ0GiSX+Y%PKE3fNzJw/P1060252.jpg</string>
 		</dict>
 		<key>13</key>
 		<dict>
@@ -282,7 +282,7 @@
 			<key>Rating</key>
 			<integer>0</integer>
 			<key>ImagePath</key>
-			<string>/Users/benoit/Coding/workjavaee7/iphotoserver/library/src/test/resources/iPhoto-9_4_3.photolibrary/Masters/2013/08/19/20130819-192758/P1060584.jpg</string>
+			<string>/Users/benoit/Coding/jiphoto/src/test/resources/iPhoto-9_4_3.photolibrary/Masters/2013/08/19/20130819-192758/P1060584.jpg</string>
 			<key>MediaType</key>
 			<string>Image</string>
 			<key>ModDateAsTimerInterval</key>
@@ -294,7 +294,7 @@
 			<key>MetaModDateAsTimerInterval</key>
 			<real>398626091.063916</real>
 			<key>ThumbPath</key>
-			<string>/Users/benoit/Coding/workjavaee7/iphotoserver/library/src/test/resources/iPhoto-9_4_3.photolibrary/Thumbnails/2013/08/19/20130819-192758/T3UGJk0yQmqogVmjT9PB0w/P1060584.jpg</string>
+			<string>/Users/benoit/Coding/jiphoto/src/test/resources/iPhoto-9_4_3.photolibrary/Thumbnails/2013/08/19/20130819-192758/T3UGJk0yQmqogVmjT9PB0w/P1060584.jpg</string>
 		</dict>
 		<key>9</key>
 		<dict>
@@ -309,7 +309,7 @@
 			<key>Rating</key>
 			<integer>0</integer>
 			<key>ImagePath</key>
-			<string>/Users/benoit/Coding/workjavaee7/iphotoserver/library/src/test/resources/iPhoto-9_4_3.photolibrary/Masters/2013/08/19/20130819-192758/P1060587.jpg</string>
+			<string>/Users/benoit/Coding/jiphoto/src/test/resources/iPhoto-9_4_3.photolibrary/Masters/2013/08/19/20130819-192758/P1060587.jpg</string>
 			<key>MediaType</key>
 			<string>Image</string>
 			<key>ModDateAsTimerInterval</key>
@@ -321,7 +321,7 @@
 			<key>MetaModDateAsTimerInterval</key>
 			<real>398626087.702131</real>
 			<key>ThumbPath</key>
-			<string>/Users/benoit/Coding/workjavaee7/iphotoserver/library/src/test/resources/iPhoto-9_4_3.photolibrary/Thumbnails/2013/08/19/20130819-192758/%VdpNZUrS1ygN3YUNPHp5w/P1060587.jpg</string>
+			<string>/Users/benoit/Coding/jiphoto/src/test/resources/iPhoto-9_4_3.photolibrary/Thumbnails/2013/08/19/20130819-192758/%VdpNZUrS1ygN3YUNPHp5w/P1060587.jpg</string>
 		</dict>
 		<key>5</key>
 		<dict>
@@ -336,7 +336,7 @@
 			<key>Rating</key>
 			<integer>0</integer>
 			<key>ImagePath</key>
-			<string>/Users/benoit/Coding/workjavaee7/iphotoserver/library/src/test/resources/iPhoto-9_4_3.photolibrary/Masters/2013/08/19/20130819-192758/P1060605.jpg</string>
+			<string>/Users/benoit/Coding/jiphoto/src/test/resources/iPhoto-9_4_3.photolibrary/Masters/2013/08/19/20130819-192758/P1060605.jpg</string>
 			<key>MediaType</key>
 			<string>Image</string>
 			<key>ModDateAsTimerInterval</key>
@@ -348,7 +348,7 @@
 			<key>MetaModDateAsTimerInterval</key>
 			<real>398626087.700732</real>
 			<key>ThumbPath</key>
-			<string>/Users/benoit/Coding/workjavaee7/iphotoserver/library/src/test/resources/iPhoto-9_4_3.photolibrary/Thumbnails/2013/08/19/20130819-192758/BkdRu%MSQtqQzNOtqnn47Q/P1060605.jpg</string>
+			<string>/Users/benoit/Coding/jiphoto/src/test/resources/iPhoto-9_4_3.photolibrary/Thumbnails/2013/08/19/20130819-192758/BkdRu%MSQtqQzNOtqnn47Q/P1060605.jpg</string>
 		</dict>
 	</dict>
 </dict>
