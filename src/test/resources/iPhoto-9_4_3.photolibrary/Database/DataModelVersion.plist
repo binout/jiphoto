@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DatabaseCompatibleBackToMinorVersion</key>
+	<integer>208</integer>
+	<key>DatabaseMinorVersion</key>
+	<integer>219</integer>
+	<key>DatabaseVersion</key>
+	<integer>110</integer>
+	<key>adminProperties</key>
+	<dict>
+		<key>GeneralPreferences|FacesEnabled</key>
+		<true/>
+		<key>database.iPhoto|lastImportEventUuid</key>
+		<string>eKVaYg+kSia111bNJ2kAkw</string>
+		<key>database.iPhoto|lastNMonthsValue</key>
+		<integer>12</integer>
+		<key>database.iPhoto|showLastNMonths</key>
+		<true/>
+		<key>database|DatabaseCompatibleBackToMinorVersion</key>
+		<integer>208</integer>
+		<key>database|RKXMLExportManagerMode</key>
+		<string>RKXMLExportManagerExportAlwaysKey</string>
+		<key>database|UseEmbeddedJPEGv2</key>
+		<true/>
+		<key>database|applicationIdentifier</key>
+		<string>com.apple.iPhoto</string>
+		<key>database|automaticallyGenerateFullSizePreviews</key>
+		<true/>
+		<key>database|createDate</key>
+		<date>2012-06-14T18:48:30Z</date>
+		<key>database|databaseUuid</key>
+		<string>aPQtv1TvSqauuRCTO9QNVA</string>
+		<key>database|imageIOVersion</key>
+		<string>850</string>
+		<key>database|isIPhotoLibrary</key>
+		<true/>
+		<key>database|previewQuality</key>
+		<real>0.83333333333333304</real>
+		<key>database|previewSizeLimit</key>
+		<integer>1</integer>
+		<key>database|rawCameraBundleVersion</key>
+		<string>696</string>
+		<key>touchedBy|com.apple.iPhoto</key>
+		<integer>1</integer>
+	</dict>
+	<key>createDate</key>
+	<date>2012-06-14T18:48:30Z</date>
+	<key>databaseUuid</key>
+	<string>aPQtv1TvSqauuRCTO9QNVA</string>
+	<key>isIPhotoLibrary</key>
+	<true/>
+	<key>masterCount</key>
+	<integer>7</integer>
+	<key>projectCompatibleBackToVersion</key>
+	<integer>8</integer>
+	<key>projectVersion</key>
+	<integer>8</integer>
+	<key>touchedByIPhoto</key>
+	<true/>
+	<key>versionCount</key>
+	<integer>7</integer>
+</dict>
+</plist>
